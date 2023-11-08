@@ -1,6 +1,6 @@
 # ImportFBX.py
 Blender FBX importer with subfolders/collections
-no backslash or double slash support "\" "//"
+no backslash`\` or doubleslash`//` support 
 
 To use it you just need to edit line 13 with you path to import the fbx files from. 
 
