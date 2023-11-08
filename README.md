@@ -1,6 +1,6 @@
 # ImportFBX.py
 
-##Blender FBX importer with subfolders/collections
+## Blender FBX importer with subfolders/collections
 
 no backslash`\` or doubleslash`//` support 
 
