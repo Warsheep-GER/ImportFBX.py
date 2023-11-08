@@ -15,3 +15,5 @@ no backslash`\` or doubleslash`//` support
 > also if you wish to import from subfolders and add them to a collection enable line 10
 > 
 > `include_subfolder = '1'`
+
+![FBXImporter](https://github.com/Warsheep-GER/ImportFBX.py/assets/8508286/ee018be7-1947-406a-ab47-dd9b305fe4da)
