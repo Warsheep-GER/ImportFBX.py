@@ -1,6 +1,4 @@
 ## Importscript for .FBX .fbx files
-## no backslash support \
-## no double slash support //
 
 # load Blender Python API's
 import bpy, os
@@ -12,7 +10,7 @@ delet_all = '1'
 include_subfolder = '1' 
 
 # Customize the path to your FBX files folder
-fbx_folder = "C:/Users/warsh/Documents/Unreal Projects/Blender/Diriyah/Mesh/"
+fbx_folder = "C:/your/path/to/the/fbxfiles/"
 
 # remove the Cube/Cam/Light
 if delet_all == '1':
